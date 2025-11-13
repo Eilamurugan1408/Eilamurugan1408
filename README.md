@@ -14,8 +14,9 @@ Data enthusiast — EDA projects using Python, Pandas, NumPy, Matplotlib.
 
 Python · C++ · Dart · JavaScript · MySQL · Flutter · EDA (NumPy, Pandas)
 
-🔗 Connect
+### 🔗 Connect
 
-LinkedIn: linkedin.com/in/eilamurugan-sankar
-LeetCode: leetcode.com/u/Eilamurugan
-Email: eilamurugan2005@gmail.com
+- **LinkedIn:** [linkedin.com/in/eilamurugan-sankar](https://linkedin.com/in/eilamurugan-sankar)
+- **LeetCode:** [leetcode.com/u/Eilamurugan](https://leetcode.com/u/Eilamurugan)
+- **Email:** [eilamurugan2005@gmail.com](mailto:eilamurugan2005@gmail.com)
+
